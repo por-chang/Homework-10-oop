@@ -4,9 +4,9 @@ Module 10: Object-Oriented Programming
 
 ## Table of Contents
 1. [Description](#description)
-2. [Submission](#submission)
-3. [Usage](#usage)
-4. [Visuals](#visuals)
+2. [Usage](#usage)
+3. [Visuals](#visuals)
+4. [Video](#video demo)
 
 ## Description
 This is a Node.js command-line application that will take in information about employees on a software engineering team and will generate an HTML webpage that displays summaries for each person. This will use an Inquirer and Jest package.
